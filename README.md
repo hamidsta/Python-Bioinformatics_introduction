@@ -10,3 +10,5 @@ For this purpose, we have several tools to build a robust program such as
 Genbank cards, transcript sequences and microRNA sequences in Fasta format.	
 sequences in Fasta format.
 
+Run main.py to lauch the interactive program
+
