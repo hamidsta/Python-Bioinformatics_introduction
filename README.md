@@ -1,4 +1,4 @@
-# Python project Bioinformatics introduction
+# Python project Bioinformatics introduction 
 
 To meet the needs of the biologist, i have created a program based on	
 the binding properties of a microRNA:
