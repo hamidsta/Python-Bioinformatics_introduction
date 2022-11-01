@@ -1,6 +1,6 @@
 # Python project Bioinformatics introduction
 
-To meet the needs of the biologist, we have created a program based on	
+To meet the needs of the biologist, i have created a program based on	
 the binding properties of a microRNA:
 
 - The microRNA binds in the 3'UTR region of the target transcript	
