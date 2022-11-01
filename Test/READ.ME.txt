@@ -1,0 +1,6 @@
+Le main pour lancer les fonctions présentes dans origin . Les fichiers smad ne sont pas "bon" , ils ne correspondent pas au fichiers 
+que vous nous avez donnés  car les autres ( le gb et le fasta ne correspondais pas l'un l'autre) , 
+dans tout les cas pour la fonction 4 ,trouver la région de fixation du micro arn , 
+il faut le faire avec d'autre dossier ( un autre dossier mciro arn et gb\fasta associé) , sinon on ne trouve pas de région avec  les fichiers qu'on a .
+Concernant le main , en choisissant une des 6 selections affichées , on lance la fonction qui lui est associée , avce une possibilité
+d'enregistrer les résultats . 
