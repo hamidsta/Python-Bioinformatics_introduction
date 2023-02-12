@@ -1,0 +1,335 @@
+LOCUS       NM_004409               2799 bp    mRNA    linear   PRI 19-NOV-2020
+DEFINITION  Homo sapiens DM1 protein kinase (DMPK), transcript variant 2, mRNA.
+ACCESSION   NM_004409
+VERSION     NM_004409.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2799)
+  AUTHORS   Haenig C, Atias N, Taylor AK, Mazza A, Schaefer MH, Russ J,
+            Riechers SP, Jain S, Coughlin M, Fontaine JF, Freibaum BD,
+            Brusendorf L, Zenkner M, Porras P, Stroedicke M, Schnoegl S,
+            Arnsburg K, Boeddrich A, Pigazzini L, Heutink P, Taylor JP,
+            Kirstein J, Andrade-Navarro MA, Sharan R and Wanker EE.
+  TITLE     Interactome Mapping Provides a Network of Neurodegenerative Disease
+            Proteins and Uncovers Widespread Protein Aggregation in Affected
+            Brains
+  JOURNAL   Cell Rep 32 (7), 108050 (2020)
+   PUBMED   32814053
+REFERENCE   2  (bases 1 to 2799)
+  AUTHORS   Tome S and Gourdon G.
+  TITLE     DM1 Phenotype Variability and Triplet Repeat Instability:
+            Challenges in the Development of New Therapies
+  JOURNAL   Int J Mol Sci 21 (2), E457 (2020)
+   PUBMED   31936870
+  REMARK    GeneRIF: DM1 Phenotype Variability and Triplet Repeat Instability:
+            Challenges in the Development of New Therapies.
+            Review article
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2799)
+  AUTHORS   Itoh K, Ebata T, Hirata H, Torii T, Sugimoto W, Onodera K, Nakajima
+            W, Uehara I, Okuzaki D, Yamauchi S, Budirahardja Y, Nishikata T,
+            Tanaka N and Kawauchi K.
+  TITLE     DMPK is a New Candidate Mediator of Tumor Suppressor p53-Dependent
+            Cell Death
+  JOURNAL   Molecules 24 (17), E3175 (2019)
+   PUBMED   31480541
+  REMARK    GeneRIF: These results suggest the existence of p53-p73-DMPK axis
+            which mediates DNA-damage induced actomyosin contraction at the
+            cortex and concomitant cell death.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 2799)
+  AUTHORS   Overend G, Legare C, Mathieu J, Bouchard L, Gagnon C and Monckton
+            DG.
+  TITLE     Allele length of the DMPK CTG repeat is a predictor of progressive
+            myotonic dystrophy type 1 phenotypes
+  JOURNAL   Hum Mol Genet 28 (13), 2245-2254 (2019)
+   PUBMED   31220271
+  REMARK    GeneRIF: Allele length of the DMPK CTG repeat is a predictor of
+            progressive myotonic dystrophy type 1 phenotypes.
+REFERENCE   5  (bases 1 to 2799)
+  AUTHORS   Leferink M, Wong DPW, Cai S, Yeo M, Ho J, Lian M, Kamsteeg EJ,
+            Chong SS, Haer-Wigman L and Guan M.
+  TITLE     Robust and accurate detection and sizing of repeats within the DMPK
+            gene using a novel TP-PCR test
+  JOURNAL   Sci Rep 9 (1), 8280 (2019)
+   PUBMED   31164682
+  REMARK    GeneRIF: Robust and accurate detection and sizing of repeats within
+            the DMPK gene using a novel TP-PCR test.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 2799)
+  AUTHORS   Bird,T.D.
+  TITLE     Myotonic Dystrophy Type 1
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301344
+REFERENCE   7  (bases 1 to 2799)
+  AUTHORS   Jansen G, Mahadevan M, Amemiya C, Wormskamp N, Segers B, Hendriks
+            W, O'Hoy K, Baird S, Sabourin L, Lennon G et al.
+  TITLE     Characterization of the myotonic dystrophy region predicts multiple
+            protein isoform-encoding mRNAs
+  JOURNAL   Nat Genet 1 (4), 261-266 (1992)
+   PUBMED   1302022
+REFERENCE   8  (bases 1 to 2799)
+  AUTHORS   Tsilfidis C, MacKenzie AE, Mettler G, Barcelo J and Korneluk RG.
+  TITLE     Correlation between CTG trinucleotide repeat length and frequency
+            of severe congenital myotonic dystrophy
+  JOURNAL   Nat Genet 1 (3), 192-195 (1992)
+   PUBMED   1303233
+REFERENCE   9  (bases 1 to 2799)
+  AUTHORS   Mahadevan M, Tsilfidis C, Sabourin L, Shutler G, Amemiya C, Jansen
+            G, Neville C, Narang M, Barcelo J, O'Hoy K et al.
+  TITLE     Myotonic dystrophy mutation: an unstable CTG repeat in the 3'
+            untranslated region of the gene
+  JOURNAL   Science 255 (5049), 1253-1255 (1992)
+   PUBMED   1546325
+REFERENCE   10 (bases 1 to 2799)
+  AUTHORS   Brook JD, McCurrach ME, Harley HG, Buckler AJ, Church D, Aburatani
+            H, Hunter K, Stanton VP, Thirion JP, Hudson T et al.
+  TITLE     Molecular basis of myotonic dystrophy: expansion of a trinucleotide
+            (CTG) repeat at the 3' end of a transcript encoding a protein
+            kinase family member
+  JOURNAL   Cell 68 (4), 799-808 (1992)
+   PUBMED   1310900
+  REMARK    Erratum:[Cell. 1992 Apr 17;69(2):385. PMID: 1568252]
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BG706056.1, BC062553.1 and
+            AV655848.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jun 2, 2019 this sequence version replaced NM_004409.4.
+            
+            Summary: The protein encoded by this gene is a serine-threonine
+            kinase that is closely related to other kinases that interact with
+            members of the Rho family of small GTPases. Substrates for this
+            enzyme include myogenin, the beta-subunit of the L-type calcium
+            channels, and phospholemman. The 3' untranslated region of this
+            gene contains 5-38 copies of a CTG trinucleotide repeat. Expansion
+            of this unstable motif to 50-5,000 copies causes myotonic dystrophy
+            type I, which increases in severity with increasing repeat element
+            copy number. Repeat expansion is associated with condensation of
+            local chromatin structure that disrupts the expression of genes in
+            this region. Several alternatively spliced transcript variants of
+            this gene have been described, but the full-length nature of some
+            of these variants has not been determined. [provided by RefSeq, Jul
+            2016].
+            
+            Transcript Variant: This variant (2) has multiple differences in
+            the presence and absence of exons at its 5' end, compared to
+            variant 1. These differences produce a distinct 5' UTR and cause
+            translation initiation at an alternative start codon, compared to
+            variant 1. The encoded protein (isoform 2, also known as isoform 9)
+            has a distinct N-terminus and is shorter than isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803613.74233.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000291270.9/ ENSP00000291270.4
+            RefSeq Select criteria :: based on manual assertion, expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-12                BG706056.1         68-79
+            13-2249             BC062553.1         1-2237
+            2250-2294           AV655848.1         340-384
+            2295-2799           BC062553.1         2238-2742
+FEATURES             Location/Qualifiers
+     source          1..2799
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19q13.32"
+     gene            1..2799
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /note="DM1 protein kinase"
+                     /db_xref="GeneID:1760"
+                     /db_xref="HGNC:HGNC:2933"
+                     /db_xref="MIM:605377"
+     exon            1..298
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             139..2028
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /EC_number="2.7.11.1"
+                     /note="isoform 2 is encoded by transcript variant 2; DM
+                     protein kinase; myotonin protein kinase A; myotonic
+                     dystrophy associated protein kinase; thymopoietin homolog;
+                     dystrophia myotonica protein kinase"
+                     /codon_start=1
+                     /product="myotonin-protein kinase isoform 2"
+                     /protein_id="NP_004400.4"
+                     /db_xref="CCDS:CCDS12674.1"
+                     /db_xref="GeneID:1760"
+                     /db_xref="HGNC:HGNC:2933"
+                     /db_xref="MIM:605377"
+                     /translation="MSAEVRLRRLQQLVLDPGFLGLEPLLDLLLGVHQELGASELAQD
+                     KYVADFLQWAEPIVVRLKEVRLQRDDFEILKVIGRGAFSEVAVVKMKQTGQVYAMKIM
+                     NKWDMLKRGEVSCFREERDVLVNGDRRWITQLHFAFQDENYLYLVMEYYVGGDLLTLL
+                     SKFGERIPAEMARFYLAEIVMAIDSVHRLGYVHRDIKPDNILLDRCGHIRLADFGSCL
+                     KLRADGTVRSLVAVGTPDYLSPEILQAVGGGPGTGSYGPECDWWALGVFAYEMFYGQT
+                     PFYADSTAETYGKIVHYKEHLSLPLVDEGVPEEARDFIQRLLCPPETRLGRGGAGDFR
+                     THPFFFGLDWDGLRDSVPPFTPDFEGATDTCNFDLVEDGLTAMVSGGGETLSDIREGA
+                     PLGVHLPFVGYSYSCMALRDSEVPGPTPMELEAEQLLEPHVQAPSLEPSVSPQDETAE
+                     VAVPAAVPAAEAEAEVTLRELQEALEEEVLTRQSLSREMEAIRTDNQNFASQLREAEA
+                     RNRDLEAHVRQLQERMELLQAEGATAVTGVPSPRATDPPSHLDGPPAVAVGQCPLVGP
+                     GPMHRRHLLLPARVPRPGLSEALSLLLFAVVLSRAAALGCIGLVAHAGQLTAVWRRPG
+                     AARAP"
+     misc_feature    784..786
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /note="Phosphoserine, by autocatalysis.
+                     /evidence=ECO:0000250; propagated from
+                     UniProtKB/Swiss-Prot (Q09013.3); phosphorylation site"
+     misc_feature    820..822
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /note="Phosphoserine, by autocatalysis.
+                     /evidence=ECO:0000250; propagated from
+                     UniProtKB/Swiss-Prot (Q09013.3); phosphorylation site"
+     misc_feature    838..840
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /note="Phosphothreonine, by autocatalysis.
+                     /evidence=ECO:0000250; propagated from
+                     UniProtKB/Swiss-Prot (Q09013.3); phosphorylation site"
+     misc_feature    1909..1971
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q09013.3);
+                     transmembrane region"
+     exon            299..390
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            391..474
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            475..570
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            571..719
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            720..813
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            814..1020
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1021..1284
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1285..1370
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1371..1482
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1483..1640
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1641..1738
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1739..1785
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1786..1875
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1876..2799
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    2252..2311
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /note="20 CTG repeats"
+     regulatory      2774..2779
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /note="hexamer: AATAAA"
+     polyA_site      2799
+                     /gene="DMPK"
+                     /gene_synonym="DM; DM1; DM1PK; DMK; MDPK; MT-PK"
+                     /note="major polyA site"
+ORIGIN      
+        1 agagaggccc aggggacagc cagggacagg cagacatgca gccagggctc cagggcctgg
+       61 acaggggctg ccaggccctg tgacaggagg accccgagcc cccggcccgg ggaggggcca
+      121 tggtgctgcc tgtccaacat gtcagccgag gtgcggctga ggcggctcca gcagctggtg
+      181 ttggacccgg gcttcctggg gctggagccc ctgctcgacc ttctcctggg cgtccaccag
+      241 gagctgggcg cctccgaact ggcccaggac aagtacgtgg ccgacttctt gcagtgggcg
+      301 gagcccatcg tggtgaggct taaggaggtc cgactgcaga gggacgactt cgagattctg
+      361 aaggtgatcg gacgcggggc gttcagcgag gtagcggtag tgaagatgaa gcagacgggc
+      421 caggtgtatg ccatgaagat catgaacaag tgggacatgc tgaagagggg cgaggtgtcg
+      481 tgcttccgtg aggagaggga cgtgttggtg aatggggacc ggcggtggat cacgcagctg
+      541 cacttcgcct tccaggatga gaactacctg tacctggtca tggagtatta cgtgggcggg
+      601 gacctgctga cactgctgag caagtttggg gagcggattc cggccgagat ggcgcgcttc
+      661 tacctggcgg agattgtcat ggccatagac tcggtgcacc ggcttggcta cgtgcacagg
+      721 gacatcaaac ccgacaacat cctgctggac cgctgtggcc acatccgcct ggccgacttc
+      781 ggctcttgcc tcaagctgcg ggcagatgga acggtgcggt cgctggtggc tgtgggcacc
+      841 ccagactacc tgtcccccga gatcctgcag gctgtgggcg gtgggcctgg gacaggcagc
+      901 tacgggcccg agtgtgactg gtgggcgctg ggtgtattcg cctatgaaat gttctatggg
+      961 cagacgccct tctacgcgga ttccacggcg gagacctatg gcaagatcgt ccactacaag
+     1021 gagcacctct ctctgccgct ggtggacgaa ggggtccctg aggaggctcg agacttcatt
+     1081 cagcggttgc tgtgtccccc ggagacacgg ctgggccggg gtggagcagg cgacttccgg
+     1141 acacatccct tcttctttgg cctcgactgg gatggtctcc gggacagcgt gccccccttt
+     1201 acaccggatt tcgaaggtgc caccgacaca tgcaacttcg acttggtgga ggacgggctc
+     1261 actgccatgg tgagcggggg cggggagaca ctgtcggaca ttcgggaagg tgcgccgcta
+     1321 ggggtccacc tgccttttgt gggctactcc tactcctgca tggccctcag ggacagtgag
+     1381 gtcccaggcc ccacacccat ggaactggag gccgagcagc tgcttgagcc acacgtgcaa
+     1441 gcgcccagcc tggagccctc ggtgtcccca caggatgaaa cagctgaagt ggcagttcca
+     1501 gcggctgtcc ctgcggcaga ggctgaggcc gaggtgacgc tgcgggagct ccaggaagcc
+     1561 ctggaggagg aggtgctcac ccggcagagc ctgagccggg agatggaggc catccgcacg
+     1621 gacaaccaga acttcgccag tcaactacgc gaggcagagg ctcggaaccg ggacctagag
+     1681 gcacacgtcc ggcagttgca ggagcggatg gagttgctgc aggcagaggg agccacagct
+     1741 gtcacggggg tccccagtcc ccgggccacg gatccacctt cccatctaga tggccccccg
+     1801 gccgtggctg tgggccagtg cccgctggtg gggccaggcc ccatgcaccg ccgccacctg
+     1861 ctgctccctg ccagggtccc taggcctggc ctatcggagg cgctttccct gctcctgttc
+     1921 gccgttgttc tgtctcgtgc cgccgccctg ggctgcattg ggttggtggc ccacgccggc
+     1981 caactcaccg cagtctggcg ccgcccagga gccgcccgcg ctccctgaac cctagaactg
+     2041 tcttcgactc cggggccccg ttggaagact gagtgcccgg ggcacggcac agaagccgcg
+     2101 cccaccgcct gccagttcac aaccgctccg agcgtgggtc tccgcccagc tccagtcctg
+     2161 tgatccgggc ccgcccccta gcggccgggg agggaggggc cgggtccgcg gccggcgaac
+     2221 ggggctcgaa gggtccttgt agccgggaat gctgctgctg ctgctgctgc tgctgctgct
+     2281 gctgctgctg ctgctgctgc tgctgctgct ggggggatca cagaccattt ctttctttcg
+     2341 gccaggctga ggccctgacg tggatgggca aactgcaggc ctgggaaggc agcaagccgg
+     2401 gccgtccgtg ttccatcctc cacgcacccc cacctatcgt tggttcgcaa agtgcaaagc
+     2461 tttcttgtgc atgacgccct gctctgggga gcgtctggcg cgatctctgc ctgcttactc
+     2521 gggaaatttg cttttgccaa acccgctttt tcggggatcc cgcgcccccc tcctcacttg
+     2581 cgctgctctc ggagccccag ccggctccgc ccgcttcggc ggtttggata tttattgacc
+     2641 tcgtcctccg actcgctgac aggctacagg acccccaaca accccaatcc acgttttgga
+     2701 tgcactgaga ccccgacatt cctcggtatt tattgtctgt ccccacctag gacccccacc
+     2761 cccgaccctc gcgaataaaa ggccctccat ctgcccaaa
+//
+
